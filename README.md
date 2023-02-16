@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @egbulsoni
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in game/web development
+- 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me egbulsoni@gmail.com
+- 📫 How to reach me hmu on discord, Eduardo Garcia#1312
 
 <!---
 egbulsoni/egbulsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
