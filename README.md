@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egbulsoni
 - 👀 I’m interested in game/web development
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - hit me up on discord, Eduardo Garcia#1312
 
