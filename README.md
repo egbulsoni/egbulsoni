@@ -8,7 +8,6 @@
 - 👀 I’m fascinated by **game development**, **web technologies**, **blockchain**, and **AI**.
 - 🌱 Currently exploring **Python**, with a focus on frameworks like Django and Flask.
 - 💬 Let’s collaborate on exciting projects that challenge the norm!
-- 📫 Reach me on Discord: **@egbulsoni**
 
 ---
 
